@@ -1,6 +1,6 @@
 # The Playlist Gallery Project
 
-> *“Where rules are not obstacles, but frames—turning playlists into a new art form.”*
+> *“Where rules are not obstacles, but frames: turning playlists into a new art form.”*
 
 ---
 
@@ -12,7 +12,7 @@ Unlike traditional AI playlist tools that bend or break rules to optimize recomm
 ---
 
 ## Core Principles
-- **Obedience to Rules**: If you set a constraint, the system never cheats.  
+- **Rigidity to Rules**: If you set a constraint, the system never cheats.  
 - **Constraints as Creativity**: Rules are the spark, not the limitation.  
 - **Transparency**: Every track shows *why* it was chosen.  
 - **Personal First**: Built for individual empowerment.  
