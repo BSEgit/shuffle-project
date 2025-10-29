@@ -1,1 +1,8 @@
-theme: Tactile
+title: ""  # This hides the title from appearing on the site
+theme: tactile  # Replace with your preferred theme name
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
