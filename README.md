@@ -1,5 +1,3 @@
-# The Playlist Gallery Project
-
 > *“Where rules are not obstacles, but frames: turning playlists into a new art form.”*
 
 ---
