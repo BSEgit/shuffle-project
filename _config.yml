@@ -1,4 +1,11 @@
-theme: minima  
+title: ""
+description: "Curating playlists using restrictions as art."
+theme: minima
+
+minima:
+  skin: auto
+  custom_css:
+    - assets/css/custom.css
 
 plugins:
   - jekyll-feed
