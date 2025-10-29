@@ -32,3 +32,5 @@ This project will be open-source. Contributions, ideas, and creative rule challe
 
 ## Vision
 Playlists are more than collections of songs—they can be curated exhibitions, structured compositions, or playful experiments. By treating rules as art, this project reimagines the playlist as a medium of expression in its own right.
+
+---

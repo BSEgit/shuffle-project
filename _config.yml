@@ -6,6 +6,9 @@ minima:
   skin: auto
   custom_css:
     - assets/css/custom.css
+authors:
+  - Bly
+  - Curator's Assistant
 
 plugins:
   - jekyll-feed
